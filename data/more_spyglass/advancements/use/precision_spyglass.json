@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:spyglass"
+            ]
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "more_spyglass:precision/raycasting/start_raycast"
+    }
+  }
+  

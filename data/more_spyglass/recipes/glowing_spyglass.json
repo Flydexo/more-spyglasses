@@ -1,0 +1,14 @@
+{
+    "type": "smithing",
+    "group": "More spyglasses",
+    "base": {
+        "item": "minecraft:spyglass"
+    },
+    "addition": {
+        "item": "minecraft:glow_ink_sac"
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

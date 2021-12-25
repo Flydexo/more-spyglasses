@@ -1,0 +1,1 @@
+effect clear @a[advancements={more_spyglass:use/glowing_spyglass=false}] minecraft:night_vision

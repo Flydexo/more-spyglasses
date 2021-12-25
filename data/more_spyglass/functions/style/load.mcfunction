@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"More ","bold":true,"italic":true,"color":"aqua"},{"text":"Spyglass ","bold":true,"italic":true,"color":"green"},{"text":"loaded","color":"red"}]

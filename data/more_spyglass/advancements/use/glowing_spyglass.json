@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "a": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:spyglass"
+          ],
+          "nbt": "{display:{Lore: ['{\"text\":\"Through it diamonds you will see\",\"color\":\"green\",\"bold\":false,\"italic\":true,\"underlined\":false,\"strikethrough\":false}']}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "more_spyglass:light/night_vision"
+  }
+}

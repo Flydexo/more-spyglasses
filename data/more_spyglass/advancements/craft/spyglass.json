@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:spyglass"
+        },
+        "title": "Everyone starts with something",
+        "description": "Craft a spyglass",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/item/spyglass.png",
+        "frame": "task"
+    },
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "minecraft:spyglass"
+        }
+      }
+    }
+}  

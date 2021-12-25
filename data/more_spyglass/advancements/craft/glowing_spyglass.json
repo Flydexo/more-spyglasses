@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "more_spyglass:glowing_spyglass"
+        }
+      }
+    },
+    "rewards": {
+      "function": "more_spyglass:light/glowing_spyglass_reward"
+    }
+  }
+  

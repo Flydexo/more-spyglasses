@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:spyglass",
+            "nbt": "{Enchantments:[{}]}"
+        },
+        "title": "Glowing",
+        "description": "This is the description",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "frame": "task"
+    },
+    "parent": "more_spyglass:craft/spyglass",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+}  
